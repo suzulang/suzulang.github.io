@@ -4,7 +4,7 @@ title:      "关于我为什么要写这个博客"
 subtitle:   "实证"
 date:       2024-03-11
 author:     "suzulang"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/jp-bg.jpg"
 tags:
     - 日本就职
 
