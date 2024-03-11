@@ -1,20 +1,17 @@
-```yaml
+---
 layout:     post
 title:      "关于我为什么要写这个博客"
-subtitle:   "第一篇文章"
+subtitle:   "实证"
 date:       2024-03-11
 author:     "suzulang"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 日本就职
-```
+
+---
 
 
 
+## 关于我为什么要写这个博客
 
-
-# 关于我为什么要写这个博客
-
-我会在这个博客记录，我从一个大学生，到日本就职的全过程。
-
-目前阶段是：日语n1，全栈程序员。
+记录一下自己，从大学到正式日本就职的过程。

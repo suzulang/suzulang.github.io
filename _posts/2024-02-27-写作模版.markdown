@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "主标题"
-subtitle:   "副标题?"
+title:      "写作模版"
+subtitle:   "副标题"
 date:       2024-02-27
 author:     "suzulang"
 header-img: "img/post-bg-js-version.jpg"
@@ -11,10 +11,5 @@ tags:
 
 
 
-## 测试一下
+## 这是一个写作模版
 
-- hello
-- world!
-
-1. hello
-2. world!
