@@ -1,5 +1,18 @@
 # 闭包结合计数器，函数工厂详解
 
+```text
+layout:     post
+title:      "大学生为什么不逃课，但是也不听课？"
+subtitle:   "听到一期播客，采访大学老师，大学老师很困惑现在的学生为什么不逃课，但是也不听课"
+date:       2024-03-15
+author:     "suzulang"
+header-img: "img/university-post.jpg"
+tags:
+    - 前端开发
+```
+
+
+
 ```javascript
 <!DOCTYPE html>
 <html lang="en">
